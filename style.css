@@ -96,12 +96,9 @@ button:hover{
 
 @media (min-width: 360px){
   .container{
-   min-width: 360px;
+   min-width: 300px;
   }
   .parents{
     margin-right:0;
-  }
-  .child{
-
   }
 }
