@@ -94,12 +94,16 @@ button:hover{
 }
 
 @media (min-width: 350px){
+  body{
+    width: 100%;
+  }
   .container{
     max-width: 500px;
-    padding: 15px;
+    padding: 20px;
   }
   main{
     max-width: 360px;
+    margin-right: 20px;
   }
   .parents{
     max-width: 360px;
