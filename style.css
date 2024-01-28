@@ -96,7 +96,7 @@ button:hover{
 
 @media (max-width: 360px){
   .container{
-   min-width: 500px;
+   min-width: 360px;
   }
   .parents{
     margin-right:0;
