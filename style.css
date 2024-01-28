@@ -101,13 +101,14 @@ button:hover{
     justify-content: center;
   }
   .container{
-    max-width: 500px;
+    max-width: 360px;
     height: 85vh;
     padding:10px;
-    margin-left: 70px;
+   
   }
   main{
-    min-width: 360px; 
+    min-width: 360px;
+    margin-left: 50px; 
   }
   .parents{
     max-width: 360px;
