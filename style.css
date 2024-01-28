@@ -98,12 +98,12 @@ button:hover{
     width: 100%;
   }
   .container{
-    max-width: 500px;
-    padding: 20px;
+    max-width: 400px;
+    padding: 25px;
   }
   main{
     max-width: 360px;
-    margin-right: 20px;
+    
   }
   .parents{
     max-width: 360px;
