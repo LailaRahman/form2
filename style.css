@@ -109,6 +109,6 @@ button:hover{
     border: 10px auto;
   }
   div{
-    min-width: 80px;
+    min-width: 50px;
   }
 }
