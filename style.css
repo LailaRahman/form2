@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  max-width: 500px;
+  min-width: 500px;
   margin: 50px auto;
   background-color: rgb(37, 49, 87, 0.7);
   color: white;
@@ -103,7 +103,7 @@ button:hover{
     height: 100vh;
   }
   .container{
-    max-width: 450px;
+    max-width: 500px;
     height: 85vh;
   }
   main{
