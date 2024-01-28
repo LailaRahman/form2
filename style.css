@@ -110,8 +110,7 @@ button:hover{
   }
   main{
     min-width: 360px; 
-    margin-left: 15px; 
-    justify-content: center;
+    align-items: center;
   }
   .parents{
     max-width: 360px;
