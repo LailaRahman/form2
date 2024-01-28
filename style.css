@@ -16,6 +16,7 @@ body {
 
 .container {
   min-width: 500px;
+  max-width: 360px;
   margin: 50px auto;
   background-color: rgb(37, 49, 87, 0.7);
   color: white;
@@ -101,7 +102,6 @@ button:hover{
     justify-content: center;
   }
   .container{
-    max-width: 360px;
     height: 85vh;
     padding:10px;
   }
