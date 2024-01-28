@@ -98,7 +98,12 @@ button:hover{
   .container{
    min-width: 360px;
   }
+  main{
+    max-width: 360px;
+  }
   .parents{
     margin-right:0;
+    max-width: 360px;
   }
+  
 }
