@@ -75,11 +75,9 @@ margin: 10px 0px;
 
 p u{
   font-size: 20px;
-  margin-right: 25px;
 }
 #checkbox{
   text-align: left;
-  margin-right: 25px;
 }
 button{
   background-color: rgb(5, 31, 73);
@@ -110,5 +108,8 @@ button:hover{
   main{
     max-width: 360px;
     margin-left: 75px;
+  }
+  #margin{
+    margin-left: 0px;
   }
 }
