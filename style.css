@@ -31,13 +31,14 @@ main {
   justify-content: center;
   gap: 15px;
   min-width: 360px;
+  margin-left: 10px;
 }
 .parents{
   display:flex;
   flex-direction: row;
   justify-content: center;
   gap: 10px;
-  margin-right: 35px;
+ 
   
 }
 .child{
@@ -100,10 +101,11 @@ button:hover{
   }
   main{
     max-width: 360px;
+    margin-left: 0;
   }
   .parents{
     margin-right:0;
-    max-width: 360px;
+    max-width: 300px;
   }
   
 }
