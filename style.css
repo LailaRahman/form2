@@ -14,7 +14,6 @@ body {
 
 .container {
   max-width: 500px;
-  min-width: 360px;
   margin: 70px auto;
   background-color: rgb(37, 49, 87, 0.7);
   color: white;
@@ -30,7 +29,6 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   gap: 15px;
-  min-width: 360px;
   margin-left: 10px;
 }
 .parents{
@@ -38,8 +36,6 @@ main {
   flex-direction: row;
   justify-content: center;
   gap: 10px;
- 
-  
 }
 .child{
   display: flex;
@@ -98,6 +94,7 @@ button:hover{
 @media (max-width: 360px){
   .container{
     width: 360px;
+    padding: 10px;
   }
   main{
     width: 300px;
