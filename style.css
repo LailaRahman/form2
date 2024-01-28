@@ -54,6 +54,10 @@ main {
   margin-left: 49px;
 }
 
+div{
+  min-width: 100px;
+}
+
 input{
   padding: 7px;
   border-radius: 5px;
@@ -103,5 +107,8 @@ button:hover{
   }
   hr{
     border: 10px auto;
+  }
+  div{
+    min-width: 80px;
   }
 }
