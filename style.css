@@ -24,12 +24,13 @@ body {
   padding: 7px;
 }
 main {
+  width: 500px;
   height: 65vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 15px;
-  margin-left: 10px;
+  margin-left: 5px;
 }
 .parents{
   display:flex;
@@ -91,13 +92,13 @@ button:hover{
   box-shadow: 3px 4px 4px 2px rgba(183, 182, 182, 0.5);
 }
 
-@media (max-width: 360px){
+@media (min-width: 360px){
   .container{
     width: 360px;
-    padding: 10px;
+    padding: 15px;
   }
   main{
-    width: 300px;
+    min-width: 360px;
     margin-left: 0;
   }
   
