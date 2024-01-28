@@ -14,7 +14,7 @@ body {
 
 .container {
   max-width: 500px;
-  min-width: 360px;
+  min-width: 300px;
   margin: 100px auto;
   background-color: rgb(37, 49, 87, 0.7);
   color: white;
@@ -27,7 +27,8 @@ body {
 
 header {
   margin: 0 auto;
-  width: 400px;
+  max-width: 400px;
+  min-width: 300px;
 }
 
 h1 {
@@ -85,9 +86,9 @@ button:hover{
   box-shadow: 3px 4px 4px 2px rgba(183, 182, 182, 0.5);
 }
 
-@media (min-width:360px) and (max-width: 500px){
+@media (min-width:300px) and (max-width: 500px){
   .container{
-   min-width: 360px;
+   min-width: 300px;
    height: 85vh;
    margin-left: 0;
    margin: 0 auto;
@@ -95,7 +96,7 @@ button:hover{
   }
   main{
     display: flex;
-    min-width: 360px;
+    min-width: 300px;
     height: 80vh;
     margin-left: 0;
     justify-content: center;
