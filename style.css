@@ -30,7 +30,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 15px;
+  gap: 20px;
   margin-left: 15px;
 }
 .parents{
@@ -63,7 +63,7 @@ hr {
 
 input{
   padding: 7px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 #gender{
@@ -108,7 +108,7 @@ button:hover{
   }
   main{
     min-width: 360px;
-    padding: 20px;
+   
   }
   .parents{
     max-width: 360px;
