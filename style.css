@@ -24,7 +24,14 @@ body {
   font-weight: bold;
   padding: 7px;
 }
-
+main {
+  height: 65vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  min-width: 360px;
+}
 .parents{
   display:flex;
   flex-direction: row;
@@ -51,17 +58,6 @@ h1 {
 hr {
   border: 1px solid white;
   margin: 15px auto;
-}
-
-main {
-  height: 65vh;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  flex: 1;
-  gap: 15px;
-  width: 400px;
-  margin-left: 49px;
 }
 
 input{
