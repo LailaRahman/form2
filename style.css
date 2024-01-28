@@ -93,7 +93,7 @@ button:hover{
   box-shadow: 3px 4px 4px 2px rgba(183, 182, 182, 0.5);
 }
 
-@media (min-width: 360px){
+@media (min-width: 400px){
   .container{
     max-width: 100%;
     padding: 15px;
