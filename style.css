@@ -105,12 +105,11 @@ button:hover{
     justify-content: center;
   }
   .container{
-    max-width: 400px;
+    max-width: 500px;
     height: 85vh;
   }
   main{
     min-width: 360px; 
-    align-items: center;
   }
   .parents{
     max-width: 360px;
