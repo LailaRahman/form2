@@ -100,8 +100,7 @@ button:hover{
   }
   main{
     display: flex;
-    flex: 1;
-    max-width: 300px;
+    max-width: 200px;
     height: 80vh;
     margin-left: 0;
     justify-content: center;
