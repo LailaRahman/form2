@@ -97,7 +97,7 @@ button:hover{
   box-shadow: 3px 4px 4px 2px rgba(183, 182, 182, 0.5);
 }
 
-@media (min-width: 350px){
+@media (min-width: 360px){
   body{
     width: 100%;
     height: 100vh;
