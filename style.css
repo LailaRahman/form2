@@ -109,9 +109,7 @@ button:hover{
     height: 85vh;
   }
   main{
-    min-width: 360px;
-    margin: 0 20px 50px 20px;
-   
+    min-width: 400px;  
   }
   .parents{
     max-width: 360px;
