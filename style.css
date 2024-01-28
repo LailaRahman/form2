@@ -98,7 +98,7 @@ button:hover{
     padding: 15px;
   }
   main{
-    min-width: 360px;
+    max-width: 360px;
     margin-left: 0;
   }
   
