@@ -48,7 +48,8 @@ main {
   justify-content: center;
   flex: 1;
   gap: 15px;
-  width: 400px;
+  min-width: 360px;
+  max-width: 500px;
   margin-left: 49px;
 }
 
@@ -84,9 +85,9 @@ button:hover{
   box-shadow: 3px 4px 4px 2px rgba(183, 182, 182, 0.5);
 }
 
-@media (min-width:400px) and (max-width: 500px){
+@media (min-width:360px) and (max-width: 500px){
   .container{
-   min-width: 100%;
+   min-width: 360px;
    height: 85vh;
    margin-left: 0;
    margin: 0 auto;
@@ -94,7 +95,7 @@ button:hover{
   }
   main{
     display: flex;
-    min-width: 100%;
+    min-width: 360px;
     height: 80vh;
     margin-left: 0;
     justify-content: center;
