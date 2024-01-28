@@ -68,7 +68,7 @@ input{
 #gender{
 text-align: left;
 display: inline-flex;
-margin: 10px 0px;
+margin: 10px auto;
 }
 
 p u{
@@ -104,7 +104,7 @@ button:hover{
     max-width: 500px;
     height: 85vh;
     padding:10px;
-    margin-left: 50px;
+    margin-left: 70px;
   }
   main{
     min-width: 360px; 
