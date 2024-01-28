@@ -30,7 +30,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   gap: 15px;
-  margin-left: 60px;
+  margin-left: 30px;
 }
 .parents{
   display:flex;
