@@ -24,7 +24,7 @@ body {
   padding: 7px;
 }
 main {
-  width: 360px;
+  width: 400px;
   height: 65vh;
   display: flex;
   flex-wrap: wrap;
@@ -110,6 +110,6 @@ button:hover{
     padding: 20px;
   }
   .parents{
-    max-width: 350px;
+    max-width: 360px;
   }
 }
