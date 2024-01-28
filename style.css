@@ -94,7 +94,7 @@ button:hover{
 
 @media (min-width: 360px){
   .container{
-    width: 360px;
+    width: 500px;
     padding: 15px;
   }
   main{
