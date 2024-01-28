@@ -106,11 +106,11 @@ button:hover{
   }
   .container{
     max-width: 400px;
-    margin: auto 10px;
     height: 85vh;
   }
   main{
     min-width: 360px;
+    margin: 0 20px 50px 20px;
    
   }
   .parents{
